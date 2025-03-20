@@ -1,0 +1,6 @@
+{
+    "populateEstimatedReadTime": {
+        "className": "Espo\\Modules\\EstimatedReadTimeField\\Classes\\ConsoleCommands\\PopulateEstimatedReadTimeFields",
+        "listed": true
+    }
+}

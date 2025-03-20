@@ -1,0 +1,18 @@
+{
+    "params": [
+        {
+            "name": "textField",
+            "type": "enum",
+            "required": true,
+            "view": "estimated-read-time-field:views/admin/field-manager/fields/estimated-read-time/textField"
+        }
+    ],
+    "notMergeable": true,
+    "notCreatable": false,
+    "fieldDefs": {
+        "type": "int",
+        "readOnly": true
+    },
+    "view": "estimated-read-time-field:views/fields/estimated-read-time",
+    "default": null
+}
